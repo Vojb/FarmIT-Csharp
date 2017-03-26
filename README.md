@@ -1,3 +1,3 @@
 # FarmIT-Csharp
 
-Allt handlar om att pusha, commita och pulla vid rätt tillfälle...
+Digitaliserade en bondgård i C#, använde en webserivce som vi själva skapat. 
